@@ -28,7 +28,7 @@ Take the South African Reserve Bank, for example. They jumped on the inflation t
 
 Here's where things get interesting. We're not just going to rely on plain old analysis. Oh no! We're diving into the world of computational linguistics techniques to uncover the hidden treasures in the South African Reserve Bank's Monetary Policy Committee Statements. These statements are released after the committee has had intense deliberations for a mere 2 to 3 days to figure out the best stance to keep inflation in check, ideally within that sweet spot of 3% to 6% over the medium term.
 
-So, what are we looking for in these statements? Well, we've got our sights set on two main dimensions: readability and sentiment. Readability tells us how easily regular folks can understand these statements. Are they filled with fancy jargon that only economists can decipher, or are they written in plain English that anyone can grasp? We're all about accessibility here!
+So, what are we looking for in these statements? Well, we've got our sights set on two main dimensions: readability and sentiment. Readability tells us how easily regular folks can understand these statements. Are they filled with fancy jargon that only economists can decipher, or are they written in plain English that anyone can grasp?
 
 But that's not all. We're also going to dig into the sentiment expressed in these statements. Are they uplifting and confidence-inspiring, or do they leave us scratching our heads and feeling uncertain?
 
